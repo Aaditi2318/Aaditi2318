@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name]<br><br>👨‍💻 4th-year Computer Science Engineering student at VIT Vellore<br>🔍 Passionate about AI, Machine Learning, Computer Vision, and Web Development<br>💼 AWS Cloud Practitioner certified and Microsoft Certified: Azure Associate Administrator<br>📚 Working on real-world projects, including facial recognition, OpenCV, and Firebase integrations<br>🚀 Always learning and open to new technologies<br>🎯 Actively seeking to apply my skills in software development, cloud solutions, and contributing to open-source projects<br>🔗 Check out my latest project: Facial Recognition Attendance System!
+👋 Hi, I'm Aaditi<br><br>👨‍💻 4th-year Computer Science Engineering student at VIT Vellore<br>🔍 Passionate about AI, Machine Learning, Computer Vision, and Web Development<br>💼 AWS Cloud Practitioner certified and Microsoft Certified: Azure Associate Administrator<br>📚 Working on real-world projects, including facial recognition, OpenCV, and Firebase integrations<br>🚀 Always learning and open to new technologies<br>🎯 Actively seeking to apply my skills in software development, cloud solutions, and contributing to open-source projects<br>🔗 Check out my latest project: Facial Recognition Attendance System!
 
 
 ## 🌐 Socials:
